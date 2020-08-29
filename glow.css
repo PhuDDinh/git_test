@@ -1,0 +1,4 @@
+/* hover over text to glow*/
+.panel-special:hover .panel-heading {
+    text-shadow: 0 0 7px white;
+}
